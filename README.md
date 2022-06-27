@@ -24,11 +24,9 @@
 <a href="https://www.hackerrank.com/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swright22" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/coykeepers"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/coykeepers" /></a></p><br><br>
+</p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datagirlz19&show_icons=true&locale=en&layout=compact" alt="datagirlz19" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datagirlz19&show_icons=true&locale=en" alt="datagirlz19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datagirlz19&" alt="datagirlz19" /></p>
