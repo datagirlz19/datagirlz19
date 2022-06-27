@@ -1,15 +1,18 @@
 <h1 align="center">Hello, My name is Sarah Wright</h1>
 <h3 align="center">A Data Scientist from Philadelphia</h3>
 
+- 🌱 I’m currently learning **Python & Machine Learning**
+
+- 💬 Ask me about **Natural Language Processing**
+<img align = "center" src = "https://imgs.search.brave.com/YKFLKxvX98fnY9fRbrafTS8kKKRHrGt9urEQp2YoiMo/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdGVlcHVibGlj/L2ltYWdlL3ByaXZh/dGUvcy0tR1BuVldH/b3EtLS90X1ByZXZp/ZXcvYl9yZ2I6MzY1/MzhiLGNfbHBhZCxm/X2pwZyxoXzYzMCxx/XzkwLHdfMTIwMC92/MTU4NDE2NjMzOC9w/cm9kdWN0aW9uL2Rl/c2lnbnMvODQ2Nzc0/Nl8wLmpwZw" >
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datagirlz19&label=Profile%20views&color=0e75b6&style=flat" alt="datagirlz19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datagirlz19" alt="datagirlz19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/datagirlz19" target="blank"><img src="https://img.shields.io/twitter/follow/datagirlz19?logo=twitter&style=for-the-badge" alt="datagirlz19" /></a> </p>
 
-- 🌱 I’m currently learning **Python & Machine Learning**
-
-- 💬 Ask me about **Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
