@@ -1,9 +1,9 @@
 
 
-Hi, my name is Sarah Wright. I am a student working towards a B.S. in Statistical & Data Scientist at the College of Wooster.
+Hi, my name is Sarah Wright. I am a student working towards a B.S. in Statistics & Data Scientist at the College of Wooster.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - :mortar_board: College student
-- 🌱 Learning Statisticts, Machine Learning, & Data Science 
+- 🌱 Learning Statistics, Machine Learning, & Data Science 
 - 🤔 Looking for datasets to explore
 - 💬 Ask me about my projects
 
