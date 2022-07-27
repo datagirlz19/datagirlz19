@@ -5,7 +5,7 @@ Hi, my name is Sarah Wright. I am a student working towards a B.S. in Statistics
 - :mortar_board: College student
 - 🌱 [Learning Statistics, Machine Learning Techniques, & Data Visualization](https://datagirlz19.github.io/)
 - 🤔 Looking for datasets to explore
-- 💬 [Ask me about my projects:](https://github.com/datagirlz19/datagirlz19.github.io)
+- 💬 [Ask me about my projects](https://github.com/datagirlz19/datagirlz19.github.io)
 
 <!--
 **This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
