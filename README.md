@@ -3,7 +3,9 @@
 Hi, my name is Sarah Wright. I am a student working towards a B.A. at the College of Wooster.
 I am a data driven professional with experience working with statistics, databases, machine learning, deep learning, and computer science especially with companies within the finance, technology, and retail sectors. I am skilled in Excel, SQL, R, Tableau, Python, Project Management, statistical analysis and exploratory data analysis. I would describe myself as a detail-oriented, and creatively driven with a Bachelors of Arts in Statistical & Data Sciences at the College of Wooster. 
 
-Personal Website: datagirlz.net  
+🦦 Personal Website: [datagirlz.net](datagirlz.net)
+🏙 Currently Located: Philadelphia, PA 
+
 If you have any questions, don't hesitate to reach out! 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
