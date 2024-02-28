@@ -1,6 +1,7 @@
 
 
-Hi, my name is Sarah Wright. I am a student working towards a B.A. at the College of Wooster.
+<h1 font-size = 50><img src= "https://github.com/datagirlz19/datagirlz19.github.io/blob/master/_includes/IMG_1050.PNG?raw=true" height = 50 > HELLO!</h1>
+My name is Sarah Wright. I am a student working towards a B.A. at the College of Wooster.
 I am a data driven professional with experience working with statistics, databases, machine learning, deep learning, and computer science especially with companies within the finance, technology, and retail sectors. I am skilled in Excel, SQL, R, Tableau, Python, Project Management, statistical analysis and exploratory data analysis. I would describe myself as a detail-oriented, and creatively driven with a Bachelors of Arts in Statistical & Data Sciences at the College of Wooster. 
 
 🦦 Personal Website: [datagirlz19.net](https://datagirlz19.github.io/)
